@@ -1,0 +1,9 @@
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\bin\Debug\bmp y xml.exe.config
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\bin\Debug\bmp y xml.exe
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\bin\Debug\bmp y xml.pdb
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\obj\Debug\bmp y xml.csprojResolveAssemblyReference.cache
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\obj\Debug\bmp_y_xml.Form1.resources
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\obj\Debug\bmp_y_xml.Properties.Resources.resources
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\obj\Debug\bmp y xml.csproj.GenerateResource.Cache
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\obj\Debug\bmp y xml.exe
+C:\Users\Paola Sandoval\Documents\Visual Studio 2017\Projects\bmp y xml\bmp y xml\obj\Debug\bmp y xml.pdb
